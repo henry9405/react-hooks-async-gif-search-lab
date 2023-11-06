@@ -14,7 +14,7 @@ and display the results.
 
 The URL for the API is
 
-`https://api.giphy.com/v1/gifs/search?q=YOUR QUERY HERE&api_key=dc6zaTOxFJmzC&rating=g`
+`h&api_key=dc6zaTOxFJmzC&rating=g`ttps://api.giphy.com/v1/gifs/search?q=YOUR QUERY HERE
 
 While the above API key _may_ work, we recommend creating your own API key by
 following the [instructions on Giphy's developer site][create_key]. Creating a
